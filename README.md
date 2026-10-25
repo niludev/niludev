@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Nilu. Medieninformatik graduate learning DevOps. Follow my journey: devops-journey.
+I'm Nilu. Medieninformatik graduate learning DevOps. Follow my journey: devops-journey.
 
 <!--
 **niludev/niludev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
